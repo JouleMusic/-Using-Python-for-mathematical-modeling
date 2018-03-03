@@ -1,5 +1,5 @@
 # Using-Python-for-mathematical-modeling
-## 一直以来，数学建模一直都是matlab的天下，所以本人作为python的忠实粉丝，尝试利用python进行数学建模，项目内容包括：
+一直以来，数学建模一直都是matlab的天下，所以本人作为python的忠实粉丝，尝试利用python进行数学建模，项目内容包括：
 ## 1.利用python进行线性规划--对标lingo
 ## 2.利用python进行遗传算法求解-还可以动态可视化--对标matlabGA工具
 ## 3.利用python中matplotlib库做各种美观的数据可视化
